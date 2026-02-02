@@ -1,0 +1,5 @@
+XWARE SPAWNER(STEAL A BRAINROT)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xscripthub/StealABrainRotSpawner/refs/heads/main/XwareSpawner"))()
+
+REDZHUBE(BLOXFRUIT)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RedzHubLua/huy384/refs/heads/main/redzHub", true))()
