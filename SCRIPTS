@@ -3,3 +3,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xscripthub/StealABrai
 
 REDZHUBE(BLOXFRUIT)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RedzHubLua/huy384/refs/heads/main/redzHub", true))()
+
+XETER HUB (BLOXFRUIT
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xscripthub/XETERHUB/refs/heads/main/XeterOfficial"))()
