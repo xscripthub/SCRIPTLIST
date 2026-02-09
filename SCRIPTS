@@ -1,3 +1,6 @@
+LUMIN HUB(BEST FOR GRIND IN ETFB)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hubscriptx/luminHUB/refs/heads/main/lua", true))()
+
 XWARE SPAWNER(STEAL A BRAINROT)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xscripthub/StealABrainRotSpawner/refs/heads/main/XwareSpawner"))()
 
