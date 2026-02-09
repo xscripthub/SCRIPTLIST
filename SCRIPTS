@@ -9,3 +9,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/RedzHubLua/huy384/ref
 
 XETER HUB (BLOXFRUIT
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xscripthub/XETERHUB/refs/heads/main/XeterOfficial"))()
+
+ZYSUME HUB (SPAWNER IN ETFB)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hubscriptx/ZysumeOfficial/refs/heads/main/ZysumeHUB", true))()
