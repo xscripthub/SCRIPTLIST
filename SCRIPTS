@@ -14,4 +14,4 @@ ZYSUME HUB (SPAWNER IN ETFB)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hubscriptx/ZysumeOfficial/refs/heads/main/ZysumeHUB", true))()
 
 ADOPT ME (SPAWNER)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hubscriptx/spawner/refs/heads/main/adoptme", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xscripthub/spawner/refs/heads/main/AdoptMe.lua.txt", true))()
