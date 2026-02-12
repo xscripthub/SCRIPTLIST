@@ -15,3 +15,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hubscriptx/ZysumeOffi
 
 ADOPT ME (SPAWNER)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xscripthub/spawner/refs/heads/main/AdoptMe.lua.txt", true))()
+
+SPEED HUB (ETFB)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xscripthub/SpeedHub/refs/heads/main/AhmadV99", true))()
